@@ -1,3 +1,3 @@
-# College
+# ADS - 2023 - 2026
 
-Repositório com propósito de guardar alguns exercícios feitos no curso superios de Análise e Desenvolvimento de Sistemas
+Exercícios e Anotações do curso superior de Análise e Desenvolvimento de Sistemas
