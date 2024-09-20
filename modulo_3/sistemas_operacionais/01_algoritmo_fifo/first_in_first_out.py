@@ -1,3 +1,4 @@
+# FIFO
 class Processo:
     def __init__(self, id, chegada, duracao, fim, inicio):
         self.id = id
