@@ -1,3 +1,3 @@
-# ADS - 2023 - 2026
+# Logic Problems
 
-Exercícios e Anotações do curso superior de Análise e Desenvolvimento de Sistemas
+Repo with the purpose of solving and saving logic problems
