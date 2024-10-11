@@ -13,8 +13,6 @@ The sum of the lengths of any two sides must be greater than the length of the t
 
 Report for every three line segments whether they can form a triangle.
 */
-
-
 SELECT 
     x,
     y,    
